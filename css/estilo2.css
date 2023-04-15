@@ -1,0 +1,42 @@
+﻿.TITULO {font-size:18 px;
+         text-align: center;
+         color: red;
+         font-weight: bold;
+         font-family: arial, helveltica, verdana, sans-serif
+}
+}
+h5{font-family: ´Berlin Sans FB´; font-size: 55 px; color: #fa0606}}
+div{font-style:normal; color: #000000; margin-bottm:40px; border-style:dotted}
+
+h5{font-family: "Berlin Sans FB"; font-size: 25 px; color: #fa0606}}
+div{font-style:normal; color: #000000; margin-bottm:20px; border-style:dotted}
+#center {color:red;}
+
+table{
+    border=color: #48C9B0;
+    border=width:3px;
+    border=style:dashed solid dotted;
+    border= spacing:show;
+    text-align:enter;
+
+}
+h1 { font-family: "Brush Script MT", cursive; 
+     font-size: 70px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 700; 
+     color: rgb(24,20,33);
+   } 
+p { font-family: "Berlin Sans FB"; 
+font-size: 20px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 400; line-height: 20px; 
+     color: rgb(24,20,33);
+} 
+
+marquee {
+    color: rgb(0,13,154)
+
+}
+h2 { font-family: "Brush Script MT", cursive; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }

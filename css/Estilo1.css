@@ -1,0 +1,29 @@
+﻿.TITULO {font-size:18 px;
+         text-align: center;
+         color: red;
+         font-weight: bold;
+         font-family: arial, helveltica, verdana, sans-serif
+}
+p{color: navy;
+}
+h3{color: #000d9a; font-size: 15 px;}
+h4{font-family: ´Berlin Sans FB´; font-size: 55 px; color: #fa0606}}
+   p{font-style: initial; color: pink; font-size:35 px}
+div{font-style:normal; color: #000000; margin-bottm:40px; border-style:dotted}
+
+h5{font-family: ´Berlin Sans FB´; font-size: 25 px; color: #fa0606}}
+   p{font-style: initial; color: pink; font-size:25 px}
+div{font-style:normal; color: ##000000; margin-bottm:20px; border-style:dotted}
+#center {color:red;}
+
+table{
+    border=color: #48C9B0;
+    border=width:3px;
+    border=style:dashed solid dotted;
+    border= spacing:show;
+    text-align:enter;
+
+}
+h1{
+    color: rgb(128,0,128)
+}
